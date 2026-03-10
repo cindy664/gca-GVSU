@@ -46,9 +46,10 @@
     "abbreviation": "GVSU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "SOC 380",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 11"
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 11",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 12"
   },
   {
     "item": "coding-for-web",
@@ -58,9 +59,10 @@
     "abbreviation": "GVSU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "SOC 380",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 11"
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 11",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 12"
   },
   {
     "item": "data-analytics",
@@ -70,9 +72,10 @@
     "abbreviation": "GVSU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "SOC 380",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 11"
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 11",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 12"
   },
   {
     "item": "coding-for-data",
@@ -82,21 +85,23 @@
     "abbreviation": "GVSU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "SOC 380",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 11"
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 11",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 12"
   },
   {
-    "item": "career-discovery",
+    "item": "career-rotation",
     "schoolname": "Grand Valley State University",
     "trackTitle": "Career Rotation Track",
     "credits": "6 GVSU credits",
     "abbreviation": "GVSU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "SOC 380",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 11"
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 11",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 12"
   },
   {
     "item": "reserve-a-seat",
